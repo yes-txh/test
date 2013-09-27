@@ -1,0 +1,8 @@
+[vm_worker]
+worker_endpoint = 10.128.252.150:9090
+port = 1
+heartbeat_interval = 8
+ip = 192.168.10.145
+job_id = 3
+task_id = 23
+interface = eth0
